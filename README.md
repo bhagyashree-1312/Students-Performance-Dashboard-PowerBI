@@ -84,5 +84,5 @@ This project showcases:
 4. Use slicers to explore insights interactively.
 
 ## Purpose 
-This project demonstrates practical PowerBI skills.
+This project demonstrates practical PowerBI skills. <br> 
 It is part of my Data Analytics Portfolio. 
